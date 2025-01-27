@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e
-
 # Pull the Docker image from Docker Hub
 docker pull rakesh74/simple-python-flask-app:latest
 # Run the Docker image as a container
